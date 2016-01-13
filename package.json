@@ -1,5 +1,5 @@
 {
-  "name": "cstreamexample",
+  "name": "cstream",
   "version": "1.0.0",
   "description": "A Custom Stream Wrapper",
   "main": "index.js",
@@ -10,14 +10,14 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/psbhanu/cStreamExample.git"
+    "url": "git+https://github.com/psbhanu/cStream.git"
   },
   "keywords": [
     "stream",
     "customstream"
   ],
   "bugs": {
-    "url": "https://github.com/psbhanu/cStreamExample/issues"
+    "url": "https://github.com/psbhanu/cStream/issues"
   },
-  "homepage": "https://github.com/psbhanu/cStreamExample#readme"
+  "homepage": "https://github.com/psbhanu/cStream#readme"
 }

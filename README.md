@@ -1,4 +1,5 @@
 // Example
+
 var cStreamModule = require('cstream');
 var cStream = cStreamModule();
 

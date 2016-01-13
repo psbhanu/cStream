@@ -1,0 +1,23 @@
+{
+  "name": "cstreamexample",
+  "version": "1.0.0",
+  "description": "A Custom Stream Wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "psbhanu <psbhanu@outlook.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psbhanu/cStreamExample.git"
+  },
+  "keywords": [
+    "stream",
+    "customstream"
+  ],
+  "bugs": {
+    "url": "https://github.com/psbhanu/cStreamExample/issues"
+  },
+  "homepage": "https://github.com/psbhanu/cStreamExample#readme"
+}
